@@ -15,7 +15,9 @@ body {
   width: 50%;
   margin: auto;
 }
-
+.row {
+  display: inline-flex;
+}
 .btn {
   margin: 25px;
   display: inline-block;
